@@ -1,0 +1,2 @@
+# automake
+automake示例
